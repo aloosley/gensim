@@ -94,6 +94,8 @@ BRIGL, Tobias, 2019, Extracting Reliable Topics using Ensemble Latent Dirichlet 
 Technische Hochschule Ingolstadt. Munich: Data Reply GmbH. Available from:
 https://www.sezanzeb.de/machine_learning/ensemble_LDA/
 
+This work was supervised by Alex Loosley.
+
 """
 import logging
 import os
